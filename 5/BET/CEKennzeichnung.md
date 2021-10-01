@@ -118,7 +118,7 @@ Mithilfe der Normen kann dies überprüft werden, ob diese Richtlinien eingehalt
    7. Interne Fertigungskontrolle
    8. CE-Kennzeichnung anbringen und Konformitätserklärung ausstellen
 - Integration der Sicherheit
-   - Bei der Wahl der angemessensten Lösungen muss der Hersteller ... fogende Grundsätze anwenden und zwar **in der angegebenen Reihenfolge**
+   - Bei der Wahl der angemessensten Lösungen muss der Hersteller ... folgende Grundsätze anwenden und zwar **in der angegebenen Reihenfolge**
       - <u>Beseitigung oder Minimerung der Risiken</u> so weit wie möglich (Integration der Sicherheit in Konstruktion und Bau der Maschine);
 	  - Ergreifen der notwendigen <u>Schutzmaßnahmen</u> gegen Risiken, die sich nicht ebseitigen lassen;
 	  - <u>Unterrichtung der Benutzer</u> über die Restrisiken augrund der ncht vollständigen Wirksamkeit der getroffenen Schutzmaßnahmen; Hinweis auf eine <u>eventuell erforderliche spezielle Ausbildung oder Einarbeitung</u> und <u>persönliche Schutzausrüstung</u>.
